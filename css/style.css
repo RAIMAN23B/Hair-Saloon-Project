@@ -1,0 +1,1671 @@
+
+
+
+
+ /* All Common Files Start */
+
+
+
+ *{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    /* font-family: "Open Sans", serif; */
+ }
+
+
+
+
+
+ a,a:hover{
+    text-decoration: none;
+    display: inline-block;
+ }
+
+  
+
+
+
+ ul,ol{
+    list-style-type: none;
+ }
+
+
+
+
+
+
+  h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+    line-height: 0.8;
+  }
+
+
+
+
+ /* All Common Files End */
+
+
+
+
+
+
+ /* First Header Part Start */
+
+
+
+
+   .nav-link {
+    font-size: 18px;
+    font-weight: 600;
+    color: #EFF4FA;
+    margin-left: 25px;
+   }
+
+
+
+
+   .nav-link:hover{
+    color: #FF7628;
+   }
+  
+
+
+
+   .nav-link i{
+    color:#EFF4FA;
+   }
+
+
+
+
+
+   .ContactBtn{
+   padding: 12px 30px;
+    font-size: 18px;
+    font-weight: 600;
+    background: #D6A033;
+    color: #ffffff;
+   margin-left: 35px;
+   }
+
+
+
+
+
+   .navbar{
+    position: fixed;
+    width: 100%;
+    top: 15px; left: 0px;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+ /* First Header Part End */
+ 
+
+
+
+
+ /* Second Header Part Start */
+
+
+
+
+   #SecondPart{
+    padding-top: 150px;
+    padding-bottom: 200px;
+    background: url(../images/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   }
+
+
+
+
+   .SecondContent{
+   margin-top: 50px;
+   }
+
+
+
+
+   
+   .SecondContent h2{
+    font-size: 64px;
+    font-weight: 900;
+    color: #F7D38A;
+    font-family: "Playfair Display", serif;
+    padding-bottom: 45px;
+   }
+
+
+
+
+
+   
+   .SecondContent h3{
+    font-family: "Open Sans", serif;
+    color: #F5F2EB;
+    font-weight: 800;
+    font-size: 64px;
+    padding-bottom: 50px;
+   }
+
+
+
+
+
+   
+   .SecondContent p{
+    color: #BEBBB4;
+    font-size: 22px;
+    font-family: "Paprika", system-ui;
+    line-height: 35px;
+    font-weight: 400;
+    padding-bottom: 60px;
+    margin-right: 160px;
+   }
+
+
+
+
+
+   
+   .SecondContent a{
+    background:#D6A033 ;
+    color:#F7F5F0;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: "Open Sans", serif;
+    padding: 20px 30px;
+   }
+
+
+
+
+
+
+    .SecondImage{
+    margin-top: 85px;
+    }
+
+
+
+
+
+
+
+ /* Second Header Part End */
+
+
+
+
+ 
+ /* Third Header Part Start */
+
+
+
+   #ThirdPart{
+    padding-top: 50px;
+    padding-bottom: 70px;
+    background:#FDFDFD ;
+   }
+
+
+
+
+   .ThirdContent{
+   margin-top: 100px;
+   }
+
+
+
+   .ThirdContent h2{
+    font-size: 48px;
+    color: #363024;
+    font-weight: 800;
+    font-family: "Open Sans", serif;
+    padding-bottom: 50px;
+    line-height: 55px;
+    margin-right: 0px;
+   }
+
+
+
+
+   .ThirdContent p{
+    font-size: 18px;
+    color: #524D43;
+    font-weight: 400;
+    font-family: "Paprika", system-ui;
+    padding-bottom: 40px;
+    line-height: 35px;
+    margin-right: 65px;
+   }
+
+
+
+
+   .ThirdContent a{
+    font-size: 20px;
+    background:#D6A033 ;
+    color:#F7F5F0;
+    font-weight: 800;
+    font-family: "Open Sans", serif;
+    padding: 15px 45px;
+   }
+
+
+
+
+
+    .ThirdBigImage{
+    margin-top: 105px;
+    }
+
+
+
+
+
+   .ThirdSmallImage{
+   margin-top: 106px;
+   margin-left: 20px;
+   }
+
+
+
+   .ThirdImage{
+    margin-top: 22px;
+    margin-left: 20px;
+   }
+
+
+
+   .SmallImage{
+    margin-top: 25px;
+    margin-left: 20px;
+    }
+
+
+
+ /* Third Header Part End */
+
+
+
+
+
+
+ 
+ /* Fourth Header Part Start */
+
+
+
+   #FourthPart{
+    padding-top: 130px;
+    padding-bottom: 80px;
+    background: #c4c4c41f;
+   }
+
+
+
+
+   .FourthContent{
+    margin-top: 0px;
+    margin-left:340px;
+   }
+
+
+
+
+
+   
+   .FourthContent h3{
+    font-size: 48px;
+    font-weight: 800;
+    font-family: "Open Sans", serif;
+    color: #363024;
+    padding-bottom: 40px;
+    margin-right: -230px;
+    margin-left: 200px;
+   }
+
+
+
+
+
+   
+   .FourthContent p{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Paprika", system-ui;
+    color: #524D43;
+    line-height: 33px;
+    margin-right: -395px;
+    margin-left: 25px;
+   }
+
+
+
+
+
+   .FourthMenuList{
+    display: flex;
+   }
+
+
+
+
+   .FourthCutting{
+   margin-top: 40px;
+   }
+
+
+
+
+  
+   .FourthCutting h3{
+    font-size: 28px;
+    font-weight: 700;
+    font-family: "Open Sans", serif;
+    color: #363024;
+    padding-bottom: 50px;
+   }
+
+
+
+
+   
+   .FourthCutting p{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Paprika", system-ui;
+    color: #524D43;
+    margin-right: 150px;
+    line-height: 30px;
+   }
+
+
+
+
+    
+   .FourthCuttingCost{
+    margin-top: 40px;
+    margin-right: -6px;
+   }
+
+
+
+
+   
+   .FourthCuttingCost h4{
+    font-size: 28px;
+    font-family: "Open Sans", serif;
+    font-weight: 800;
+    color: #D6A033;
+   }
+
+
+
+
+
+
+   .FourthColouring{
+    margin-top: 40px;
+    }
+ 
+ 
+ 
+ 
+   
+    .FourthColouring h3{
+    font-size: 28px;
+    font-weight: 700;
+    font-family: "Open Sans", serif;
+    color: #363024;
+    padding-bottom: 50px;
+    }
+ 
+ 
+ 
+ 
+    
+    .FourthColouring p{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Paprika", system-ui;
+    color: #524D43;
+    margin-right: 125px;
+    line-height: 30px;
+    }
+
+
+
+
+
+ /* Fourth Header Part End */
+
+
+
+
+
+
+ 
+ /* Fifth Header Part Start */
+
+
+
+  
+
+   #FifthPart{
+    padding-top: 120px;
+    padding-bottom: 80px;
+    background: white;
+   }
+
+
+
+
+   
+
+
+
+   
+   .FifthContent h2{
+    font-family: "Open Sans", serif;
+    font-size: 48px;
+    font-weight: 800;
+    color: #363024;
+    margin-right: -205px;
+    margin-left: 0px;
+   }
+
+
+
+
+
+
+   .HairCare{
+    display: flex;
+    margin-top: 65px;
+   }
+
+
+
+
+   .FifthTwo{
+   margin-left: 30px;
+   }
+
+
+
+
+   .FifthTwo h3{
+    font-size: 28px;
+    font-weight: 700;
+    color: #363024;
+    font-family: "Open Sans", serif;
+    padding-bottom: 30px;
+   }
+
+
+
+
+   .FifthTwo p{
+    font-size: 18px;
+    font-weight: 400;
+    color: #524D43;
+    font-family: "Paprika", system-ui;
+    margin-right: 55px;
+    line-height: 34px;
+   }
+
+
+
+
+
+    .FifthOne i{
+    color: #d6a0333a;
+    font-size: 80px;
+    }
+
+
+
+
+
+
+    .FifthHairDye {
+    margin-top: -61px;
+    margin-left: 20px;
+    }
+
+
+
+
+
+    .FifthImage img {
+    width: 112%;
+    margin-top: -20px;
+    }
+
+
+
+
+ /* Fifth Header Part End */
+
+
+
+
+
+
+ 
+ /* Sixth Header Part Start */
+
+
+
+  #SixthPart{
+  padding-top: 140px;
+  padding-bottom: 0px;
+  background: #181D21;
+  }
+
+
+
+
+  .SixthContent{
+  display: flex;
+  }
+
+
+
+
+  
+
+
+  .ContentOne h3{
+  font-size: 48px;
+  font-weight: 800;
+  font-family: "Open Sans", serif;
+  color: #FBFBFA;
+  }
+
+
+
+  .ContentTwo{
+  margin-left: 70px;
+  margin-top: 11px;
+  }
+
+
+
+
+  .ContentTwo h3{
+  font-size: 24px;
+  font-weight: 700;
+  font-family: "Open Sans", serif;
+  color: #D6A033;   
+  }
+
+
+
+
+
+  .ContentThree{
+  margin-left: 70px;
+  margin-top: 11px;
+  }
+
+
+
+
+
+  .ContentThree h3{
+  font-size: 24px;
+  font-weight: 600;
+  font-family: "Open Sans", serif;
+  color: #FBFBFA;    
+  }
+
+
+
+
+
+  .ContentFour{
+  margin-left: 70px;
+  margin-top: 11px;
+  }
+
+
+
+
+  .ContentFour h3{
+  font-size: 24px;
+  font-weight: 600;
+  font-family: "Open Sans", serif;
+  color: #FBFBFA;    
+  }
+
+
+
+
+  .ContentFive{
+  margin-left: 70px;
+  margin-top: 11px;
+  }
+
+
+
+
+
+
+  .ContentFive h3{
+  font-size: 24px;
+  font-weight: 600;
+  font-family: "Open Sans", serif;
+  color: #FBFBFA;  
+  }
+
+
+
+
+
+
+  .SixthImage{
+  margin-top: 140px;
+  margin-bottom: -80px;
+  }
+
+
+
+
+ /* Sixth Header Part End */
+
+
+
+
+
+
+ 
+ /* Seven Header Part Start */
+
+
+
+
+    #SevenPart{
+    padding-top: 140px;
+    padding-bottom: 100px;
+    background: #FCFBF9;
+    }
+
+
+
+
+
+
+    .SeventhContent h3{
+    font-family: "Open Sans", serif;
+    font-size: 48px;
+    font-weight: 800;
+    color: #363024;
+    margin-top: 135px;
+    }
+
+
+
+
+
+    .SixthIcons{
+    display: flex;
+    margin-top: 135px;
+    }
+
+
+
+
+    .IconsLight{
+    font-size: 60px;
+    color: #524D43;
+    margin-top: -20px;
+    }
+
+
+
+
+    
+    .IconsDark{
+    font-size: 60px;
+    color: #D6A033;
+    margin-left: 35px;
+    margin-top: -20px;
+    }
+
+
+
+
+
+
+
+    .LeftArrow {
+    font-size: 29px;
+    color: #363024;
+    margin-left: 17px;
+    margin-top: -65px;
+    }
+
+
+
+
+
+
+    .RightArrow {
+    font-size: 29px;
+    color: #ffffff;
+    margin-left: 17px;
+    margin-top: -65px;
+    }
+
+
+
+
+
+
+    .SevenLotion{
+    display: flex;
+    background: #FDF4E1;
+    padding: 45px 75px;
+    }
+
+
+
+    
+
+
+
+    .SevenImage img{
+    width: 100%;
+    }
+
+
+
+
+
+
+
+    
+    .NewLotion {
+    margin-top: -16px;
+    margin-left: -57px;
+    }
+
+
+
+
+
+
+    .NewLotion h3{
+    font-size: 22px;
+    font-weight: 700;
+    font-family: "Open Sans", serif;
+    color: #363024;
+    padding-bottom: 25px;
+    margin-right: -67px;
+    }
+
+
+
+
+
+
+
+
+    .NewLotion h4{
+    font-size: 24px;
+    font-weight: 700;
+    font-family: "Open Sans", serif;
+    color: #D6A033;
+    margin-right: 0px;
+    }
+
+
+
+   
+
+
+
+
+    .OldLotion p{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Paprika", serif;
+    color: #363024; 
+    margin-right: -90px; 
+    }
+
+
+
+
+
+
+
+
+
+    .OldLotion {
+    margin-left: 87px;
+    margin-top: 31px;
+    }
+
+
+
+
+
+
+
+
+    .LineDown{
+    margin-top: 120px;
+    }
+
+
+
+
+    .Loyalty{
+    margin-top: 120px;
+    }
+    
+
+
+
+
+    .SevenOne img{
+    width: 100%;
+    }
+
+
+
+    .BorderOne{
+    border: 2px solid #D6A033;
+    }
+
+
+    
+
+    .SevenTwo{
+    padding: 26px 0px;
+    background: #D6A033;
+    }
+
+
+
+
+
+
+    .BoxingSplit{
+    display: flex; 
+    }
+
+    
+   
+
+    .SplitIcons{
+    display: flex;
+    margin-top: 13px;
+    margin-left: 37px;
+    }
+
+
+
+      
+    .SplitOne{
+    margin-top: 0px;
+    margin-left: 30px;
+    }
+
+
+
+
+
+    .SplitOne h3{
+    font-size: 22px; 
+    font-weight: 700; 
+    color: #FBFBFA;
+    font-family: "Open Sans", serif;
+    padding-bottom: 14px;
+    }
+
+
+
+
+
+
+    .SplitOne h4{
+    font-size: 24px; 
+    font-weight: 700; 
+    color: #FBFBFA;
+    font-family: "Open Sans", serif;
+    padding-bottom: 16px;
+    }
+
+
+
+
+
+
+    .SplitOne p{
+    font-size: 16px; 
+    font-weight: 500; 
+    color: #FBFBFA;
+    font-family: "Nunito", serif;
+    text-transform: uppercase;
+    }
+    
+    
+    
+
+
+
+
+    .SplitTwo{
+    margin-top:35px;
+    margin-left: 22px;
+    }
+
+
+
+
+    
+    
+    .SplitTwo p{
+    font-size: 16px; 
+    font-weight: 400; 
+    color: #FBFBFA;
+    font-family: "Paprika", serif;
+    }
+    
+    
+        
+
+
+
+    .HeartIcon i{
+    font-size: 20px;
+    color: #FBFBFA;
+    }
+    
+
+
+     
+
+
+    .EyeIcon i{
+    font-size: 20px;
+    color: #FBFBFA;
+    margin-left: 12px;
+    }
+    
+    
+    
+    
+    
+
+
+
+
+ /* Seven Header Part End */
+
+
+
+
+
+
+
+ 
+ /* Eigth Header Part Start */
+
+
+
+
+  #EigthPart{
+  padding-top: 130px;
+  padding-bottom: 80px;
+  }
+
+
+
+
+
+  .ImageUpwards {
+  margin-top: -535px;
+  margin-left: 32px;
+  }
+
+
+
+
+  .ImageText {
+  margin-top: -138px;
+  margin-left: 78px;
+  }
+
+
+
+  .ImageText h3{
+  font-size: 48px;
+  font-weight: 800;
+  font-family: "Open Sans", serif;
+  color: #FBFBFA;
+  padding-bottom: 30px;
+  }
+
+
+
+
+  .ImageText p{
+  font-size: 30px;
+  font-weight: 700;
+  font-family: "Open Sans", serif;
+  color: #F8C355;
+  }
+
+
+
+
+
+
+  .TextRight{
+  margin-top: 40px;
+  }
+
+
+
+
+
+
+  .TextRight h3{
+  font-size: 48px;
+  font-weight: 800;
+  font-family: "Open Sans", serif;
+  color: #363024;
+  padding-bottom: 35px;  
+  }
+
+
+
+
+
+
+  .TextRight p{
+  font-family: "Paprika", serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #524D43;
+  margin-right: 65px;
+  line-height: 32px;
+  }
+  
+
+
+
+
+
+  .ImageGreyBorder {
+  margin-top: -282px;
+  margin-left: 483px;
+  }
+
+
+
+
+  .MiniImage {
+  margin-top: -276px;
+  margin-left: 656px;
+  }
+
+
+
+
+  .ImageRight {
+  margin-top: -276px;
+  margin-left: 822px;
+  }
+
+
+
+
+
+ /* Eigth Header Part End */
+
+
+
+
+
+
+ 
+ /* Ninth Header Part Start */
+
+
+
+
+
+ #NinthPart{
+  padding-top: 50px;
+  padding-bottom: 90px;
+ }
+
+
+
+
+  .NinthTop{
+ margin-top: 130px;
+  }
+
+
+
+
+  
+  .NinthTop h3{
+  font-size: 48px;
+  font-weight: 800;
+  font-family: "Open Sans", serif;
+  color: #363024;
+  }
+
+
+
+
+
+
+  .NinthUpwards{
+  margin-top: 100px;
+  }
+
+
+
+
+
+  
+  .NinthUpwards p{
+  font-family: "Paprika", serif;
+  color: #524D43;
+  font-size:20px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-right: 105px;
+  }
+
+
+
+
+
+  
+  .NinthUpwards i{
+  font-size: 120px;
+  color: #D6A033;
+  padding-bottom: 40px;
+  }
+
+
+
+
+
+  .NinthUpwards img{
+  margin-top: -25px;
+  }
+
+
+
+
+
+  .NinthDownwards{
+  display: flex;
+  margin-top: 15px;
+  }
+
+
+
+
+
+
+  .NinthText h3{
+  font-size: 25px;
+  font-weight: 800;
+  font-family: "Open Sans", serif;
+  color: #363024;
+  padding-bottom: 20px;
+  }
+
+
+
+
+  .NinthText h4{
+  font-family: "Paprika", serif;
+  color: #524D43;
+  font-size: 18px;
+  font-weight: 400;
+  }
+
+
+
+
+
+
+
+  .NinthText{
+  margin-top: 23px;
+  }
+
+
+
+
+
+  span{
+  color: #D6A033;
+  padding-top: 20px;
+  }
+
+
+
+
+
+  .NinthRightTowards{
+  margin-top: 100px;
+  }
+  
+  
+  
+  
+  
+    
+  .NinthRightTowards p{
+  font-family: "Paprika", serif;
+  color: #524D43;
+  font-size:20px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-right: 105px;
+  }
+  
+  
+  
+  
+  
+    
+  .NinthRightTowards i{
+  font-size: 120px;
+  color: #d6a03344;
+  padding-bottom:30px;
+  }
+  
+  
+  
+  
+  
+  .NinthRightTowards img{
+  margin-top: -3px;
+  }
+  
+
+
+
+
+
+ /* Ninth Header Part End */
+
+
+
+
+
+
+
+
+ 
+ /* Tenth Header Part Start */
+
+
+
+  
+ #TenthPart{
+  padding-top: 80px;
+  padding-bottom: 100px;
+  background: #FAFAF9;
+ }
+
+
+
+
+
+  
+  .TenthTop h3{
+  font-family: "Work Sans", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  color: #363024;
+  }
+
+
+
+
+
+  .TenthContent{
+  margin-top: 150px;
+  }
+
+
+
+
+
+  .TenDown{
+  padding: 45px 0px;
+  background: #ffffff;
+  }
+
+
+
+
+
+
+  .TenTop img{
+  width: 100%;
+  }
+
+
+
+
+
+
+
+  .TenSplit{
+  display: flex;
+  }
+
+
+
+
+
+  .TenLeft {
+  margin: 70px 25px;
+  padding: 0px 13px;
+  background: #b5b9b92d;
+  margin-left: 20px;
+  margin-top: 0px;
+  }
+
+
+
+
+
+
+  .TenLeft h4{
+  font-size: 24px;
+  font-weight: 700;
+  font-family: "Open Sans", serif;
+  color:#D6A033;
+  padding-bottom: 17px;
+  padding-top: 8px;
+  }
+
+
+
+
+
+  .TenLeft p{
+  font-size: 20px;
+  font-weight: 600;
+  font-family: "Open Sans", serif;
+  color:#363024;
+  padding-bottom: 18px;
+  }
+
+
+
+
+
+
+  .SplitApart{
+  display: flex;
+  }
+
+
+
+
+
+  .Number p{
+  font-family: "Work Sans", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  color: #524D43;
+  margin-left: 7px;
+  }
+
+
+  
+
+
+
+  .TextMessage i{
+  font-size: 20px;
+  color: #524D43;
+  }
+   
+
+
+
+
+
+
+  .TenRight h3{
+  font-size: 24px;
+  font-weight: 600;
+  font-family: "Open Sans", serif;
+  color: #363024;
+  padding-bottom: 30px;
+  margin-right: 66px;
+  line-height: 30px;
+  }
+
+
+
+
+
+  .TenRight h4{
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Paprika", serif;
+  color: #524D43;
+  padding-bottom: 25px;
+  }
+
+
+
+
+
+
+  .PartOne h5{
+  font-family: "Nunito", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  color: #D6A033;
+  padding-top: 32px;
+  margin-right: -90px;
+  }
+
+
+
+
+
+
+  .PartTwo i{
+  font-size: 16px;
+  margin-left: -9px;
+  margin-top:30px;
+  color: #D6A033;
+  }
+
+
+
+
+
+ 
+  .AnotherSplit{
+  display: flex;
+  }
+
+
+
+
+
+
+  .LineWay {
+  background: #363024;
+  height: 1px;
+  width: 209px;
+  margin-top: 5px;
+  margin-left: 0px;
+  }
+
+
+
+
+
+
+  .TenthContentPart{
+  margin-top: 150px;
+  border: 2px solid #D6A033;
+  }
+
+
+
+
+ /* Tenth Header Part End */
+
+
+
+
+
+ 
+ /* Last Header Part Start */
+
+
+
+  #LastPart{
+  padding-top: 180px;
+  padding-bottom: 100px;
+  background: #181D21;
+  }
+
+
+
+
+
+
+  .LastOne p{
+  font-family: "Nunito", sans-serif;
+  color: #FEFEFE;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  padding-top: 50px;
+  margin-right: 90px;
+  }
+
+
+
+
+
+
+
+
+  .LastTwo h3{
+  font-family: "Open Sans", serif;
+  font-size: 24px;
+  font-weight: 600;
+  color: #FEFEFE;
+  padding-bottom: 50px;
+  padding-top: 15px;
+  }
+
+
+
+
+
+
+  
+  .LastTwo h4{
+  font-family: "Nunito", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  color: #FEFEFE;
+  padding-bottom: 40px;
+  }
+
+
+
+
+
+
+
+  .LastThree p{
+  font-family: "Nunito", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #FEFEFE; 
+  }
+
+
+
+
+
+  .LastFour p{
+  font-family: "Nunito", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #FEFEFE; 
+  }
+
+
+
+
+
+
+  .LastDown{
+  margin-top: 100px;
+  }
+
+
+
+
+ /* Last Header Part End */
+
+
+
+
+
+
+ 
+ /* Header Part Start */
+ /* Header Part End */
+ 
+ /* Header Part Start */
+ /* Header Part End */
+ 
+ /* Header Part Start */
+ /* Header Part End */
+
+ /* Header Part Start */
+ /* Header Part End */
+ 
+ /* Header Part Start */
+ /* Header Part End */
+ 
+ /* Header Part Start */
+ /* Header Part End */
